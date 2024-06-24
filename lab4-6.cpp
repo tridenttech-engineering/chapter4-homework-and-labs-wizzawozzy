@@ -6,7 +6,14 @@ using namespace std;
 
 int main()
 {
+	//declare variables
+	int base = 11;
+	int height = 13;
+	double area = 0.0;
 
-  return 0;
+	//calculate and display area
+	area = base * height / 2;
+	cout << "Area: " << area << endl;
+
+	return 0;
 }	//end of main function
-
