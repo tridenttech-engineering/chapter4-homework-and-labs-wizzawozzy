@@ -1,26 +1,74 @@
 # Lab 4-2 Plan and Create
 
-1. **Read textbook pages 95 through 97. Note that your book gives instructions for setting up development tools and a development environment. Ignore those instructions. We are using Replit instead. Figure 4-27 on page 97 gives the final C++ instructions to be submitted. Please do not just copy and paste. Working through Lab 4-2 will get you used to developing, building, testing, and pushing/submitting your code**
+1. **Read textbook pages 95 through 97. Note that your book gives instructions for setting up development tools and a development environment. Ignore those instructions. We are using Replit instead. Figure 4-27 on page 97 gives the final C++ instructions to be submitted. Please do not just copy and paste. Working through Lab 4-2 will get you used to developing, building, testing, and pushing/submitting your code**i
 
-2. **When you are done, push your code to the Github classroom. A Github Action will grade your lab.**
+2. **Test the program using the same data used to desk-check the program. You can compile and run your code with the following commands:**
+```
+make clean
+make lab4-2
+./lab4-2
+```
+**You can also use the unit test for testing your code by running the following:** 
+``` 
+make test_lab4-2
+./test_files/test_lab4-2
+```
+
+3. **When you are done, push your code to the Github classroom. A Github Action will grade your lab.**
 
 # Lab 4-3 Modify
 
 1. **Modify the the program from lab4-2.cpp. to allow the user to enter the commission rate (in decimal form). Test the program twice. For the first test, use 1328.50 and .1 as the sales amount and commission rate respectively. For the second test, use 267.90 and .15. (Don’t be concerned that the $40.185  has three decimal places. You will learn how to format numbers in Chapter 5.)**
 
-2. **When you are done, push your code to the Github classroom. A Github Action will grade your lab.**
+2. **Test the program using the same data used to desk-check the program. You can compile and run your code with the following commands:**
+```
+make clean
+make lab4-3
+./lab4-3
+```
+**You can also use the unit test for testing your code by running the following:** 
+``` 
+make test_lab4-3
+./test_files/test_lab4-3
+```
+
+3. **When you are done, push your code to the Github classroom. A Github Action will grade your lab.**
 
 # Lab 4-4 What's missing?
 
 1. **The C++ code in lab4-4.cpp is out of order and missing a few lines of code. It is currently a non-functioning program. Fix the program and add the missing lines of code. The program in this lab should calculate and display the volume of a cylinder, given the cylinder’s radius (r) and height (h), and using 3.14 as the value of pi. The formula for calculating the volume is π*r*r*h.**
 
-2. **When you are done, push your code to the Github classroom. A Github Action will grade your lab.**
+2. **Test the program using the same data used to desk-check the program. You can compile and run your code with the following commands:**
+```
+make clean
+make lab4-4
+./lab4-4
+```
+**You can also use the unit test for testing your code by running the following:** 
+``` 
+make test_lab4-4
+./test_files/test_lab4-4
+```
+
+3. **When you are done, push your code to the Github classroom. A Github Action will grade your lab.**
 
 # Lab 4-6 Debug
 
 1. **The program should calculate and display the area of a triangle, but it is not working correctly. Run and then debug the program.**
 
-2. **When you are done, push your code to the Github classroom. A Github Action will grade your lab.**
+2. **Test the program using the same data used to desk-check the program. You can compile and run your code with the following commands:**
+```
+make clean
+make lab4-6
+./lab4-6
+```
+**You can also use the unit test for testing your code by running the following:** 
+``` 
+make test_lab4-6
+./test_files/test_lab4-6
+```
+
+3. **When you are done, push your code to the Github classroom. A Github Action will grade your lab.**
 
 # Exercise 4-11 Savings Account Balance Program
 
