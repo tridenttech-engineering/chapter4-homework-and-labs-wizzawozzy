@@ -1,3 +1,5 @@
+# These assignments directly correspond with assignments in your book. For further details and references, please refer to the approriate sections in your textbook, and if you need further clarification, please reach out.
+
 # Lab 4-2 Plan and Create
 
 1. **Read textbook pages 95 through 97. Note that your book gives instructions for setting up development tools and a development environment. Ignore those instructions. We are using Replit instead. Figure 4-27 on page 97 gives the final C++ instructions to be submitted. Please do not just copy and paste. Working through Lab 4-2 will get you used to developing, building, testing, and pushing/submitting your code**i
